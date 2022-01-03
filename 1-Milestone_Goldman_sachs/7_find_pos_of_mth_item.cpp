@@ -1,13 +1,10 @@
 
-
 /*
 Problem Link: https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1
 Title: Find the position of M-th item
 Difficulty: Basic
 Author: Madhav Anchala
 Language: C++
-
-
 */
 
 
