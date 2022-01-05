@@ -1,4 +1,14 @@
 
+/*
+Problem Link: https://leetcode.com/problems/minimum-size-subarray-sum/
+Title: Minimum Size Subarray Sum
+Difficulty: Medium
+Author: Madhav Anchala
+Language: C++
+*/
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
